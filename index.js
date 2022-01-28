@@ -3,7 +3,7 @@ const client = new Discord.Client({intents: 32767,});
 const config = require("./config.json")
 const {MessageEmbed} = require("discord.js")
 
-{client.login("OTI1NDg3OTg0OTc4MDU5MzE2.Yct12g.4f64EfSZQkXCjUqWQ-be4p9IAwk") 
+{client.login("a")
  console.log("foi")}
 
 module.exports = client;
