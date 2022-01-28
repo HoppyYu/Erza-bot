@@ -1,0 +1,25 @@
+{
+  "name": "bottempalte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pani Kaz#8893",
+  "license": "ISC",
+  "dependencies": {
+    "delete": "^1.1.0",
+    "discord-button-pages": "^1.1.9",
+    "discord.js": "^13.2.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12",
+    "quick.db": "^7.1.3",
+    "write": "^2.0.0"
+  },
+  "devDependencies": {
+    "node": "^16.13.0"
+  }
+}
